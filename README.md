@@ -1,6 +1,7 @@
+
 # This bot based on [GroupButler](https://github.com/RememberTheAir/GroupButler)
 
-##Setup 
+##Setup
 You **must** have Lua (5.2+) installed, plus some modules: LuaSocket, LuaSec, Redis-Lua, Lua term and Lua serpent. And, to upload files, you need Curl installed too.
 
 How to install LuaRocks and set-up the modules:
@@ -19,12 +20,19 @@ $ sudo luarocks install lua-term
 $ sudo luarocks install serpent
 $ cd ..
 ```
- 
+
 Install Curl, only if missing:
 ```bash
 $ sudo apt-get install curl
 ```
 
+Clone the github repository:
+```bash
+# Clone the repo and give the permissions to start the launch script
+
+$ git clone https://github.com/zxcwe/api.git
+$ cd zxcwe && sudo chmod 777 launch.sh
+```
 
 **First of all, take a look to your bot settings:**
 
