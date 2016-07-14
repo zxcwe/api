@@ -21,7 +21,7 @@ $ sudo luarocks install lua-term
 $ sudo luarocks install serpent
 $ cd ..
 ```
-
+ 
 Install Curl, only if missing:
 ```bash
 $ sudo apt-get install curl
