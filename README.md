@@ -1,6 +1,6 @@
 # This bot based on [GroupButler](https://github.com/RememberTheAir/GroupButler)
 
-##Setup
+##Setup 
 You **must** have Lua (5.2+) installed, plus some modules: LuaSocket, LuaSec, Redis-Lua, Lua term and Lua serpent. And, to upload files, you need Curl installed too.
 
 How to install LuaRocks and set-up the modules:
