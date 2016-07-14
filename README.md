@@ -1,5 +1,3 @@
-# BeatBotTeamBot
-
 # This bot based on [GroupButler](https://github.com/RememberTheAir/GroupButler)
 
 ##Setup
