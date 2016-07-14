@@ -27,13 +27,6 @@ Install Curl, only if missing:
 $ sudo apt-get install curl
 ```
 
-Clone the github repository:
-```bash
-# Clone the repo and give the permissions to start the launch script
-
-$ git clone https://github.com/BeatBotTeam/BeatBotTeamBot.git
-$ cd BeatBotTeamBot && sudo chmod 777 launch.sh
-```
 
 **First of all, take a look to your bot settings:**
 
@@ -49,15 +42,3 @@ Before start the bot, you have to start Redis. Open a new window and type:
 
 $ sudo service redis-server start
 ```
-
-
-# BeatBot Team
------------------
-
-# Owner : [Amirho3inf](http://telegram.me/amirho3inf)
-
-# BeatBot Team Channels
------------------
-
-# Fa : [BeatBot_Team](http://telegram.me/beatbot_team)
-# En : [BeatBotTeam](http://telegram.me/beatbotteam)
